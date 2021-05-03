@@ -7,7 +7,7 @@ Desafio frontend Next
 
 git clone https://github.com/EdioPaul/Ecommerce.git
 
-No diretório frontend: npm install
+No diretório frontend: executar o comando 'npm install'
 
 # Execute o aplicativo
 
