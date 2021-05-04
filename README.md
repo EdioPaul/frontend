@@ -13,7 +13,7 @@ No diretório frontend: executar o comando 'npm install'
 
 npm start
 
-Abra http: //localhost:3000
+Abra http://localhost:3000
 
 # Acesso
 
